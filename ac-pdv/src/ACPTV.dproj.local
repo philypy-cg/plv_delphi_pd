@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/28 13:10:37.000.031,=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/28 17:37:30.000.241,=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/28 17:38:37.000.497,=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/28 17:39:05.000.990,C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\ACPTV.dproj</Transaction>
+    <Transaction>2023/10/28 17:43:03.000.175,C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\meus_repositorios_Delphi\ac-pdv\src\view\acptv.view.principal.dfm</Transaction>
+    <Transaction>2023/10/28 17:43:03.000.175,C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\meus_repositorios_Delphi\ac-pdv\src\view\acptv.view.principal.pas</Transaction>
+    <Transaction>2023/10/28 17:43:19.000.915,C:\Users\Philypy\Documents\Embarcadero\Studio\Projects\ACPTV.dproj=C:\meus_repositorios_Delphi\ac-pdv\src\ACPTV.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
